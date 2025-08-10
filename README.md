@@ -1,5 +1,7 @@
 # HR Resource Query Chatbot
 
+[Watch the Project Demo on Loom 🎥](https://www.loom.com/share/1c7a09693bbe4ca8b6756a0cb6969296?sid=48b900bc-fb5c-4e9b-abe6-e9b394dfd987)
+
 ## Overview
 This project is an intelligent HR assistant designed to help teams find the right employees for specific tasks using natural language. Instead of relying on rigid keyword searches, it uses a Retrieval-Augmented Generation (RAG) architecture to understand the *meaning* behind a query and provide detailed, AI-generated recommendations. The final implementation uses a powerful local Large Language Model (LLM), ensuring privacy and no API costs.
 
