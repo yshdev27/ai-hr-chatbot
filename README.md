@@ -72,7 +72,7 @@ The backend exposes a single API endpoint.
 
 
 ## AI Development Process
-**Document how you used AI tools in your development:**
+
 - **Which AI coding assistants did you use?**
   - I used **Gemini**, and its *Guided learning* to grasp and build this project.
 
