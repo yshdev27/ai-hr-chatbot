@@ -1,4 +1,3 @@
-# app.py (Frontend)
 import streamlit as st
 import requests
 
@@ -6,8 +5,7 @@ st.title("HR Resource Query Chatbot 🤖")
 user_query = st.text_input("Ask me to find an employee:")
 
 if user_query:
-    # This is the address of our backend.
-    # We use localhost, which means "this same computer".
+    
     api_url = "http://localhost:8000/chat"
     
     with st.spinner("Searching for candidates..."):

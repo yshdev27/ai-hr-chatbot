@@ -1,4 +1,3 @@
-# main.py (Backend)
 from fastapi import FastAPI
 from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer, util
